@@ -4,5 +4,6 @@ An android app made using MVP architecture, used to convert realtime texts to em
 ## Preview
 ![Preview](/device-2017-11-20-230940.mp4?raw=true "Preview")
 
-### Release Update
-Will be converted to library soon
+## Android Library
+Check out the android library for this.
+[a link](http://github.com/AnkitKiet/EmojiConverter)
