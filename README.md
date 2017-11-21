@@ -6,4 +6,4 @@ An android app made using MVP architecture, used to convert realtime texts to em
 
 ## Android Library
 Check out the android library for this.
-[a link](http://github.com/AnkitKiet/EmojiConverter)
+[Emoji Converter](http://github.com/AnkitKiet/EmojiConverter)
